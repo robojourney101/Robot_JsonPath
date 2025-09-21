@@ -104,7 +104,7 @@ Filters ใช้กรอง element ของ array โดย `@` แทน el
 ---
 
 ## 📌 References
-
+- [JSONPath Repository](https://github.com/json-path/JsonPath)
 - [JSONPath Syntax](https://goessner.net/articles/JsonPath/)  
 - [Robot Framework JSONLibrary](https://robotframework-thailand.github.io/robotframework-jsonlibrary/)  
 - [ReqRes API](https://reqres.in/)
